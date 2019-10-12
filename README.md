@@ -11,7 +11,9 @@ Time spent: **4** hours spent in total
 The following **required** functionality is complete:
 
 * [x] Website is dynamic. It can be viewed finely with all mobile devices
-* [x] Images are dynamic. They change size accordingly.
+* [x] Built the game UI using HTML, CSS, and Bootstrap
+* [x] Implemented the game logic with client-side JavaScript
+* [x] Manipulated the DOM using client-side JavaScript
 
 <!-- The following **optional** features are implemented:
 * [ ] Added 
